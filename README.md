@@ -6,10 +6,10 @@
 </div>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/anjalihole/]">
+  <a href="https://linkedin.com/in/anjalihole/">
     <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://discordapp.com/users/anjali.h]">
+  <a href="https://discordapp.com/users/anjali.h">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
