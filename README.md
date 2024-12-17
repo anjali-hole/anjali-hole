@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Anjali H!
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    Hi there, I'm Anjali!
+  </h1>
+</div>
 
 - 🎓 Computer Science student at Texas A&M University
 - 🔬 Undergraduate Honors Thesis Researcher
@@ -16,8 +21,8 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<!--![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)-->
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Assembly-0000FF?style=for-the-badge&logo=assemblyscript&logoColor=white)
