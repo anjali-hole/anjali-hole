@@ -40,20 +40,20 @@
 
 
 ## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-hole&layout=compact&theme=radical)
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali-hole&hide_rank=true&show_icons=true&count_private=true&hide=stars&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-hole&layout=compact&theme=dracula)
 
 ## 🏆 Projects
 
-### myHealthArc
+### 👉 myHealthArc
 Health management app integrating IoT devices for real-time health metric tracking
 - **Tech Stack:** Swift, Vapor, MongoDB, API Integration
 
-### Restaurant POS System
+### 👉 Restaurant POS System
 Full-stack point-of-sale system with weather integration
 - **Tech Stack:** TypeScript, React, Next.js, Java, SQL, OpenWeather API
 
-### Premier League Player Stats Visualizer
+### 👉 Premier League Player Stats Visualizer
 Interactive web app for visualizing soccer statistics
 - **Tech Stack:** JavaScript, React, Next.js, Data Visualization Libraries
 
