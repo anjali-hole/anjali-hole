@@ -5,6 +5,16 @@
   </h1>
 </div>
 
+<div align="center">
+  <a href="[https://linkedin.com/in/anjalihole/]">
+    <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[https://discordapp.com/users/anjali.h]">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
+
 - 🎓 Computer Science student at Texas A&M University
 - 🔬 Undergraduate Honors Thesis Researcher
 - 💻 Software Engineering Intern at NEAX
@@ -81,7 +91,7 @@ Interactive web app for visualizing soccer statistics
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anjalihole/)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord)](discordapp.com/users/anjali.h)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/anjali.h)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:anjali_hole@tamu.edu)
 
 
