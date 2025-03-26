@@ -17,7 +17,6 @@
 
 - 🎓 Computer Science student at Texas A&M University
 - 🔬 Undergraduate Honors Thesis Researcher
-- 💻 Software Engineer at Epic
 - 🌟 Former Google Developer Student Clubs President
 - 🚀 Passionate about AI, Web Development, and Health Tech
 - 👀 Looking for new grad software engineering roles!
