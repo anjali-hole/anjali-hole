@@ -15,8 +15,8 @@
 </div>
 
 
-- 🎓 Computer Science student at Texas A&M University
-- 🔬 Undergraduate Honors Thesis Researcher
+- 🎓 Computer Science Honors student at Texas A&M University
+- 🔬 Undergraduate Research Scholar
 - 🌟 Former Google Developer Student Clubs President
 - 🚀 Passionate about AI, Web Development, and Health Tech
 - 👀 Looking for new grad software engineering roles!
