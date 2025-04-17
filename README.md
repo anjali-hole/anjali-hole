@@ -15,13 +15,13 @@
 </div>
 
 
-- 🎓 Computer Science Honors student at Texas A&M University
-- 🔬 Undergraduate Research Scholar
-- 🌟 Former Google Developer Student Clubs President
-- 🚀 Passionate about AI, Web Development, and Health Tech
-- 👀 Looking for new grad software engineering roles!
+-  Computer Science Honors student at Texas A&M University
+-  Undergraduate Research Scholar
+-  Former Google Developer Student Clubs President
+-  Passionate about AI, Web Development, and Health Tech
+-  Looking for new grad software engineering roles!
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img height="180"  src="https://github-readme-stats.vercel.app/api?username=anjali-hole&hide_rank=true&show_icons=true&count_private=true&hide=stars&theme=radical" alt="Anjali's GitHub stats">
@@ -67,27 +67,27 @@
 
 
 
-## 🏆 Projects
+##  Projects
 
-### 👉 myHealthArc
+###  myHealthArc
 Health management app integrating IoT devices for real-time health metric tracking
 - **Tech Stack:** Swift, Vapor, MongoDB, API Integration
 
-### 👉 Restaurant POS System
+###  Restaurant POS System
 Full-stack point-of-sale system with weather integration
 - **Tech Stack:** TypeScript, React, Next.js, Java, SQL, OpenWeather API
 
-### 👉 Premier League Player Stats Visualizer
+###  Premier League Player Stats Visualizer
 Interactive web app for visualizing soccer statistics
 - **Tech Stack:** JavaScript, React, Next.js, Data Visualization Libraries
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🧠 AI-Assisted Diagnosis research for my Honors Thesis
-- 🌐 Expanding my full-stack development skills
-- 📱 Developing innovative mobile applications
+-  AI-Assisted Diagnosis research for my Honors Thesis
+-  Expanding my full-stack development skills
+-  Developing innovative mobile applications
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anjalihole/)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/anjali.h)
